@@ -2,7 +2,7 @@
 
  This is a simple Demo Project for SpaceX Rocket launch
 
-### `install dependencies using  yanr or npm install` 
+### `install dependencies using  yarn or npm install` 
 ### `npm start`
 
 Runs the app in the development mode.\
